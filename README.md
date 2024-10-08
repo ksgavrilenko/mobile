@@ -8,4 +8,4 @@
 [Отчеты о дефектах тестирования мобильного приложения]
 (https://github.com/KGavrilenko-Turknas/mobile/commit/e68c03557d471175ad8e4e4d088d420e4ff7d776)
 [Отчет о тестировании мобильного приложения]
-(https://github.com/KGavrilenko-Turknas/mobile/commit/4924e290999d808deb5824f09e32b03da4b66aef)
+(https://github.com/KGavrilenko-Turknas/mobile/commit/e4932f9b5426963bc11d00672dfd3d6444956c41)
